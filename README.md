@@ -9,7 +9,6 @@ This project is built to closely follow the uploaded assignment PDF visualizatio
 - No placeholder images; charts are live-simulated.
 
 Run:
-1. unzip
-2. npm install
-3. npm start
+1. npm install
+2. npm start
 
