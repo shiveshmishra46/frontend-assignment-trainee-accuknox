@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "id": "cspm",
+      "name": "CSPM Executive dashboard",
+      "widgets": [
+        "w1",
+        "w2",
+        "w3",
+        "w4"
+      ]
+    }
+  ],
+  "widgets": [
+    {
+      "id": "w1",
+      "name": "Assets Summary",
+      "text": "Assets across regions"
+    },
+    {
+      "id": "w2",
+      "name": "Compliance Score",
+      "text": "Compliance metrics and status"
+    },
+    {
+      "id": "w3",
+      "name": "Alerts Feed",
+      "text": "Latest security alerts"
+    },
+    {
+      "id": "w4",
+      "name": "Risk Trend",
+      "text": "Risk score trend"
+    }
+  ]
+}
